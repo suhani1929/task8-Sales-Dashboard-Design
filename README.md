@@ -1,4 +1,4 @@
-# task8-Sales-Dashboard-Design
+task8-Sales-Dashboard-Design
 ---
 ## Superstore Sales Dashboard - Power BI
 
