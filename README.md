@@ -6,7 +6,7 @@
 This Power BI dashboard provides an interactive overview of sales performance across different regions, product categories, and time periods using the Global Superstore dataset.
 
 ## 🗂️ Dataset Used
-- **Dataset**: Global_Superstore.csv
+- **Dataset**: `Global_Superstore.csv`
 - **Columns Included**: Order Date, Region, Category, Sales, Profit, Customer Name, and more.
 
 ## 🧩 Key Visualizations
