@@ -1,6 +1,6 @@
-task8-Sales-Dashboard-Design
+# task8-Sales-Dashboard-Design
 ---
-## Superstore Sales Dashboard - Power BI
+# Superstore Sales Dashboard - Power BI
 
 ## 📊 Overview
 This Power BI dashboard provides an interactive overview of sales performance across different regions, product categories, and time periods using the Global Superstore dataset.
