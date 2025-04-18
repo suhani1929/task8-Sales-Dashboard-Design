@@ -2,8 +2,7 @@
 Dashboard Insights
 
 1. Western Europe leads in sales performance
-   - Western Europe is the top-performing region with the highest total sales, followed by Oceania and Southern Asia. These three regions alone contribute significantly to the company’s 
-     revenue.
+   - Western Europe is the top-performing region with the highest total sales, followed by Oceania and Southern Asia. These three regions alone contribute significantly to the company’s revenue.
 
 2. Technology is the best-selling category
    - The Technology category accounts for the largest share of sales (44.24%), followed by Furniture (35.16%). Office Supplies contributes the least among the three.
