@@ -1,0 +1,15 @@
+
+Dashboard Insights
+
+1. Western Europe leads in sales performance
+   - Western Europe is the top-performing region with the highest total sales, followed by Oceania and Southern Asia. These three regions alone contribute significantly to the company’s 
+     revenue.
+
+2. Technology is the best-selling category
+   - The Technology category accounts for the largest share of sales (44.24%), followed by Furniture (35.16%). Office Supplies contributes the least among the three.
+
+3. Sales show fluctuations over time
+   - Sales trends vary across months, with noticeable spikes and dips for all categories. Technology shows relatively more consistent sales, while Furniture exhibits sharper fluctuations.
+
+4. Top customers drive a significant portion of revenue
+   - The top 10 customers together contribute over 116K in total sales. Adrian Barton and Vivek Grady are among the highest value customers.
