@@ -36,5 +36,6 @@ This Power BI dashboard provides an interactive overview of sales performance ac
 - Sales trends vary across months with visible spikes.
 - Top 10 customers significantly impact overall revenue.
 
+---
 
 *Created using Power BI Desktop on April 18, 2025.*
